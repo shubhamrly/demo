@@ -1,0 +1,22 @@
+[
+  { "type": "Margherita", "size": "Medium", "toppings": ["Cheese", "Tomato"] },
+  { "type": "Pepperoni", "size": "Large", "toppings": ["Pepperoni", "Cheese"] },
+  { "type": "Veggie Supreme", "size": "Small", "toppings": ["Olives", "Bell Peppers", "Onions", "Mushrooms"] },
+  { "type": "BBQ Chicken", "size": "Large", "toppings": ["Chicken", "BBQ Sauce", "Cheese"] },
+  { "type": "Hawaiian", "size": "Medium", "toppings": ["Pineapple", "Ham", "Cheese"] },
+  { "type": "Four Cheese", "size": "Large", "toppings": ["Mozzarella", "Parmesan", "Cheddar", "Feta"] },
+  { "type": "Meat Lovers", "size": "Large", "toppings": ["Pepperoni", "Sausage", "Bacon", "Ham"] },
+  { "type": "Buffalo Chicken", "size": "Medium", "toppings": ["Chicken", "Buffalo Sauce", "Onions"] },
+  { "type": "Mushroom", "size": "Small", "toppings": ["Mushrooms", "Cheese"] },
+  { "type": "Garden Fresh", "size": "Medium", "toppings": ["Spinach", "Tomatoes", "Green Peppers", "Olives"] },
+  { "type": "Mexican", "size": "Large", "toppings": ["Jalapenos", "Corn", "Red Peppers", "Cheese"] },
+  { "type": "Spinach Alfredo", "size": "Medium", "toppings": ["Spinach", "Alfredo Sauce", "Cheese"] },
+  { "type": "Tandoori Paneer", "size": "Large", "toppings": ["Paneer", "Onions", "Green Peppers", "Spices"] },
+  { "type": "Sicilian", "size": "Medium", "toppings": ["Tomato", "Basil", "Mozzarella"] },
+  { "type": "Caprese", "size": "Small", "toppings": ["Tomatoes", "Fresh Basil", "Mozzarella"] },
+  { "type": "Chicken Fajita", "size": "Medium", "toppings": ["Chicken", "Bell Peppers", "Onions", "Cheese"] },
+  { "type": "Pesto Veggie", "size": "Large", "toppings": ["Pesto Sauce", "Zucchini", "Spinach", "Cheese"] },
+  { "type": "Italian Sausage", "size": "Medium", "toppings": ["Sausage", "Red Onions", "Cheese"] },
+  { "type": "Greek", "size": "Small", "toppings": ["Olives", "Feta Cheese", "Tomatoes", "Spinach"] },
+  { "type": "Bacon Cheeseburger", "size": "Large", "toppings": ["Beef", "Bacon", "Cheddar", "Onions"] }
+]
